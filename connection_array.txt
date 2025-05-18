@@ -1,0 +1,9 @@
+VCC	->	3V3
+GND	->	GND
+CS	->	10
+RESET	->	RST
+DC	->	2
+SDI(MOSI) ->	11
+SCK	->	12
+LED	->	8
+SDO(MISO) ->	13
